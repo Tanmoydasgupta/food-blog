@@ -1,0 +1,75 @@
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+}
+.orange-color {
+  color: orange;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+p {
+  margin-bottom: 50px;
+}
+.anchor {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 700;
+  color: rgb(34, 34, 2);
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 80%;
+  margin-left: 50px;
+}
+.midSection {
+  background-image: url(images/7.png);
+  background-repeat: no-repeat;
+}
+.third {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.half-width1 {
+  width: 300px;
+  height: 350px;
+  text-align: justify;
+  box-shadow: 5px 5px 5px 5px gray;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 2%;
+}
+.half-width1 img {
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+  box-shadow: 10px 10px 10px gray;
+  display: block;
+  margin-bottom: 30px;
+}
+.cards {
+  justify-content: center;
+}
+.contactus {
+  margin-top: 50px;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid gray;
+  background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.footer {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
